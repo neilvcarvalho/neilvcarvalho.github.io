@@ -16,7 +16,7 @@ title: Neil Carvalho
 
 <!-- Pagination links -->
 {% if paginator.total_pages > 1 %}
-<div class="pagination">
+<nav class="pagination">
   {% if paginator.previous_page %}
     <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Anterior</a>
   {% else %}
@@ -38,5 +38,5 @@ title: Neil Carvalho
   {% else %}
     <span>Próxima &raquo;</span>
   {% endif %}
-</div>
+</nav>
 {% endif %}
