@@ -6,8 +6,8 @@ categories: jekyll blog github-pages
 ---
 
 Cansei do Tumblr e quero meu blog num lugar onde eu tenha um pouco mais de
-controle. Movi para o [Github Pages][pages.github.com], usando o
-[Jekyll][jekyll] como engine.
+controle. Movi para o [Github Pages][http://pages.github.com], usando o
+[Jekyll][http://jekyllrb.com] como engine.
 
 Apanhei um pouco para configurá-lo como blog, pois apesar de o comando
 `jekyll new nome-do-blog` já gerar um blog básico, tentei usar um dos layouts
