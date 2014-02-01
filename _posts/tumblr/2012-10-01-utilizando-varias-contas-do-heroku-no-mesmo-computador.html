@@ -1,0 +1,26 @@
+---
+layout: post
+title: Utilizando várias contas do Heroku no mesmo computador sem apanhar das chaves
+  SSH
+date: '2012-10-01T18:28:00-03:00'
+tags:
+- bloco-de-notas
+- desenvolvimento
+tumblr_url: http://neilcarvalho.tumblr.com/post/32689242607/utilizando-varias-contas-do-heroku-no-mesmo-computador
+---
+<p>(A propósito, passarei a usar o blog como um bloco de notas)</p>
+
+<p>Os que vi tendo a necessidade de fazer deploys a contas diferentes do Heroku no mesmo computador me perguntaram a mesma coisa: tem alguma maneira mais prática de resolver isso? E a resposta foi sempre a mesma: sei lá, um dia pesquiso melhor. Semana passada resolvi pesquisar melhor, por teimosia, e encontrei o motivo pelo qual o <a href="https://github.com/ddollar/heroku-accounts">heroku-accounts</a> não funcionava.</p>
+
+<p>A propósito, tente usar o <a href="https://github.com/ddollar/heroku-accounts">heroku-accounts</a> antes de terminar de ler o texto e volte se tiver problemas. Enquanto isso, o intervalo comercial.</p>
+
+<p>[Intervalo comercial qualquer que eu ia copiar do YouTube, mas inevitavelmente iria procrastinar]</p>
+
+<p>Ok, deu merda? Minha falta de atenção foi nesse detalhe aqui:</p>
+
+<p>To clone a git repository from Heroku, change &#8216;heroku.com&#8217; to the Host of the desired account defined in your .ssh/config:</p>
+
+<pre><code>$ git clone git@heroku.work:repository.git
+</code></pre>
+
+<p>Continuei usando heroku.com, quando deveria ter mudado para heroku.personal, o nome da minha conta pessoal no trabalho.</p>

@@ -1,0 +1,25 @@
+---
+layout: post
+title: Sobre MongoDB
+date: '2012-05-17T12:20:59-03:00'
+tags:
+- não faço a mínima ideia
+- desenvolvimento
+tumblr_url: http://neilcarvalho.tumblr.com/post/23231136541/sobre-mongodb
+---
+<p>Esse é o início da série <strong>não faço a mínima ideia</strong>, onde vou escrever sobre - surprise surprise - algo que não sei bem o que é.</p>
+
+<p>MongoDB é uma dessas palavrinhas que vejo muita gente falar, penso &#8220;vou pesquisar sobre isso&#8221; e o tempo passa e não volta mais. Mas enfim, é mais um dos vários bancos não-relacionais que andam dando as caras há algum tempo.</p>
+
+<p>As consultas no MongoBD seguem o padrão JSON (que o Ruby se aproximou nas hashes do 1.9), o que é legal por manter uma similaridade em diferentes representações de dados.</p>
+
+<p>O armazenamento dos dados se dá por pares de chave-valor que ficam dentro de coleções (como &#8220;clientes&#8221;). Tudo se dá em pares de chave-valor, até as consultas. Para buscar na coleção <code>bares</code> os que têm capacidade entre 100 e 300 pessoas, por exemplo, a busca seria <code>db.bares.find({ capacidade: { $gte: 100, $lte: 300 } })</code>, onde <code>$gte</code> é <em>greater than or equal to</em> e <code>$let</code> é, por sua vez, <em>less than or equal to</em>.</p>
+
+<h3>Outros exemplos de consulta:</h3>
+
+<pre><code>db.clientes.find( { nome: /^fulano/i } ) //adeus montar queries com upper e like
+db.alunos.count({ ano: 5, turma: 'B'}) //quantos diabos o inferno tem
+db.contas.find().skip(20).limit(10) //3ª página, fácil assim
+</code></pre>
+
+<p>Por enquanto é só isso. O MongoDB te dá o poder de definir funções em Javascript (pois é), fazer MapReduce com uma facilidade absurda e mais uma porrada de coisas. Mas fica pra próxima, porque não faço a mínima ideia de como fazer essas coisas.</p>

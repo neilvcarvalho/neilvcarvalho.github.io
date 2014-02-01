@@ -2,3 +2,5 @@ name: Neil Carvalho
 tagline: "Desenvolvimento, lifehacks e outras coisas"
 markdown: redcarpet
 pygments: true
+paginate: 5
+paginate_path: "page:num"
