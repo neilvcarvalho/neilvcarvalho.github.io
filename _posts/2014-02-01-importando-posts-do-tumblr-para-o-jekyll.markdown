@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Importando posts do Tumblr para o Jekyll"
-date:   2014-02-01 18:53;00
+date:   2014-02-01 18:53:00
 categories: jekyll tumblr importacao
 ---
 
