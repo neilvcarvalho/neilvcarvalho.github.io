@@ -9,7 +9,7 @@ Tenho lido vários livros que falam sobre hábitos nos últimos meses. O problem
 
 Aí encontrei um pequeno livro de 150 páginas que meu deu um boost de motivação: Mini Habits: Smaller Habits, Bigger Results. Ele está disponível “gratuitamente” no Kindle Unlimited, no meio daquele mar de livros de qualidade duvidosa (e eu havia acabado de ler um bem ruim).
 
-Esse livro fala de uma técnica bem interessante para se adquirir hábitos, sem muito esforço nem resistência. A ideia é fazer uma determinada bem pequena - estupidamente pequena, a ponto de ser pequena demais pra você não fazer - todos os dias. O exemplo inicial, que o autor usa como exemplo, é fazer uma flexão (uma!) todos os dias.
+Esse livro fala de uma técnica bem interessante para se adquirir hábitos, sem muito esforço nem resistência. A ideia é fazer uma determinada tarefa bem pequena - estupidamente pequena, a ponto de ser pequena demais pra você não fazer - todos os dias. O exemplo inicial, que o autor usa como exemplo, é fazer uma flexão (uma!) todos os dias.
 
 Isso não te limita a fazer apenas uma, pode fazer    mais 5, e mais 10, e mais 5, mas encare esses extras como um bônus. O interessante disso é que a tendência é você fazer mais do que o estipulado, já que a resistência inicial é sempre a mais difícil de vencer. Esse texto mesmo eu comecei com meu mini-proto-hábito de escrever 50 palavras por dia (o que escrevi no primeiro parágrafo).
 
