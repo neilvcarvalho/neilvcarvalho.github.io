@@ -7,7 +7,7 @@ categories: produtividade hábitos organização
 
 Tenho lido vários livros que falam sobre hábitos nos últimos meses. O problema é que não consegui aplicar, de fato, nenhum deles na minha vida, e meus hábitos têm surgido como sempre: de forma desorganizada, nem sempre bons e ainda mais raramente na área que quero que surja um bom hábito.
 
-Aí encontrei um pequeno livro de 150 páginas que meu deu um boost de motivação: Mini Habits: Smaller Habits, Bigger Results. Ele está disponível “gratuitamente” no Kindle Unlimited, no meio daquele mar de livros de qualidade duvidosa (e eu havia acabado de ler um bem ruim).
+Aí encontrei um pequeno livro de 150 páginas que me deu um boost de motivação: Mini Habits: Smaller Habits, Bigger Results. Ele está disponível “gratuitamente” no Kindle Unlimited, no meio daquele mar de livros de qualidade duvidosa (e eu havia acabado de ler um bem ruim).
 
 Esse livro fala de uma técnica bem interessante para se adquirir hábitos, sem muito esforço nem resistência. A ideia é fazer uma determinada tarefa bem pequena - estupidamente pequena, a ponto de ser pequena demais pra você não fazer - todos os dias. O exemplo inicial, que o autor usa como exemplo, é fazer uma flexão (uma!) todos os dias.
 
