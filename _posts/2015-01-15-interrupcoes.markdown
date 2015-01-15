@@ -5,8 +5,6 @@ date:   2015-01-15 2:35:00
 categories: produtividade
 ---
 
-# Interrupções
-
 Tenho um problema de manutenção de foco. Dependendo do nível de foco, se passar uma mosca a 5 metros de distância, eu já esqueço o que estava fazendo e viro um doutorando em moscologia.
 
 Agora calcule o que acontece com o celular apitando a cada tweet, e-mails chegando a cada 2 minutos, grupos de família no WhatsApp com um bom dia e feliz aniversário a cada 10 minutos e perguntas constantes no Hipchat, nossa ferramenta de comunicação  dentro da empresa. Sem contar o telefone, as reuniões (quando não participo) e até mesmo uma eventual cutucada no ombro.
