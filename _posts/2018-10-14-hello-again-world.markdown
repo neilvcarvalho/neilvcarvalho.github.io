@@ -49,4 +49,4 @@ de 450 dias no [Headspace](https://www.headspace.com/). Mas só precisei quebrar
 essa corrente para parar de meditar quase que imediatamente.
 
 Preciso voltar aos baby steps. Mini-hábitos são ótimos para isso. Só preciso
-descobrir uma forma de não deixar uma falha deixar tudo desmoronar.
+descobrir uma forma de não deixar uma falha fazer tudo desmoronar.
