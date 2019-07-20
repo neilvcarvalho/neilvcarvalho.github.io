@@ -13,7 +13,7 @@ Ingredientes:
 - Uma conta na AWS
 - [Uma chave de API no OpenWeather](https://openweathermap.org/api)
 - [Uma chave de API do IFTTT](https://ifttt.com/maker_webhooks)
-- Um do IFTTT instalado no celular
+- Um app do IFTTT instalado no celular
 
 ## Passo 1: Criando um applet no IFTTT
 _TL/DR sobre o IFTTT: É um serviço que permite a conexão de dois serviços diferentes. Você pode configurar toda foto onde você é marcado no Facebook para ser enviada por e-mail, por exemplo._
