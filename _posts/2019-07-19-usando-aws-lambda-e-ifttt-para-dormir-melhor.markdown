@@ -15,7 +15,7 @@ Ingredientes:
 - [Uma chave de API do IFTTT](https://ifttt.com/maker_webhooks)
 - Um app do IFTTT instalado no celular
 
-## Passo 1: Criando um applet no IFTTT
+### Passo 1: Criando um applet no IFTTT
 _TL/DR sobre o IFTTT: É um serviço que permite a conexão de dois serviços diferentes. Você pode configurar toda foto onde você é marcado no Facebook para ser enviada por e-mail, por exemplo._
 
 IFTTT significa _**if** **t**his, **t**hen **t**hat_. E é exatamente assim que os applets são criados.
@@ -25,7 +25,7 @@ Criei um applet em que o _this_ é _Webhooks_. Isso precisa de uma chave de API,
 Já o _that_ é o _Notifications_. Os webhooks do IFTTT podem receber até três parâmetros: `Value1`, `Value2` e `Value3`. Eles serão passados pela função Lambda, descrita em seguida. Ah, como vou enviar `Value1` como a hora do nascer do Sol e `Value2` como a melhor hora para dormir, minha mensagem de notificação ficou exatamente:
 > Prepare-se para dormir às {{Value2}}. O sol vai nascer às {{Value1}}.
 
-## Passo 2: Criando a função do Lambda
+### Passo 2: Criando a função do Lambda
 _TL/DR sobre o Lambda: É um serviço da Amazon onde você pode programar funções e plugar em outros serviços. Você não precisa se preocupar com o servidor e será cobrado apenas pelos segundos em que a função executar. Há uma quantidade mensal que é gratuita, e essa função está com uma enorme folga._
 
 O propósito da função do Lambda é ser executada todos os dias, às 20h, ver a hora do nascer do Sol no OpenWeather e finalmente passar o bastão pro IFTTT completar o serviço.
